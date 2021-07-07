@@ -8,3 +8,6 @@ ins_X;
 
 # updated code
 ins_Y;
+
+# updated code + error
+ins_Z;
