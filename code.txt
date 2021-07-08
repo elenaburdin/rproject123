@@ -17,3 +17,6 @@ ins_magic;
 
 # new idea fox!
 ins_new_idea;
+
+# new change from remote
+ins_new_remote_9999999;
