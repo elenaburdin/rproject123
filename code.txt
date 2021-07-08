@@ -14,3 +14,6 @@ ins_Z_no_error;
 
 # YEEY!
 ins_magic;
+
+# new idea fox!
+ins_new_idea;
